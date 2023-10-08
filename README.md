@@ -69,6 +69,7 @@ Express.js: A popular Node.js framework to build scalable server-side for web ap
 Mongoose: An ODM(Object Data Modelling)library for MongoDB and Node.js
 
 Multer: Node.js packages that help in dealing with file uploads.
+shortid : Node.js packages that help to generate short id .
 
 Chakra UI :A simple, modular and accessible component library that gives you the building blocks you need to build your React applications
 ## Potential Improvements
